@@ -1,9 +1,13 @@
 import './App.css';
+import Header from './components/Header/Header';
 
 function App() {
   return (
     <div className="app">
-      <h1>Let us begin...</h1>
+
+      <Header />
+      {/* Tinder Cards */}
+      {/* Action Buttons */}
     </div>
   );
 }
